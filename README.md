@@ -87,8 +87,3 @@
 <a href="https://www.linkedin.com/in/saniya-rahmani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://x.com/8086Saniya"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
----
-
-✨ *“Code is not just about solving problems, it’s about creating impact.”* ✨
-```
-
