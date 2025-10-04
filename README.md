@@ -27,7 +27,7 @@
 ### 👩‍💻 About Me
 - 🎓 IT Graduate passionate about **Full Stack Development**
 - 🌱 Exploring **Flask, React, Pandas, NumPy, PostgreSQL**
-- 🛠️ Built projects like **Employee Management System, Customer Feedback Manager, Gym Website, Kashmir Blog Website**
+- 🛠️ Built projects like **Employee Management System, Gym Website, Kashmir Blog Website**
 - 💡 Open to **PWD-friendly opportunities** and inclusive workplaces
 - 📫 Reach me at [rahmanisaniya91@gmail.com](mailto:rahmanisaniya91@gmail.com)
 
